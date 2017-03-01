@@ -1,11 +1,7 @@
-{"menu": {
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"value": "New", "onclick": "CreateNewDoc()"},
-      {"value": "Open", "onclick": "OpenDoc()"},
-      {"value": "Close", "onclick": "CloseDoc()"}
+{
+    "events": [
+      {"name": "Chris Thile", "description": "Chris Thile Description", "start": "2017-06-15 11:00", "end":"2017-06-15 12:15"},
+      {"name": "Freddy & Francine", "description": "Freddy & Francine Description", "start": "2017-06-15 12:30", "end":"2017-06-15 13:45"},
+      {"name": "Tim O'Brien Band", "description": "Tim O'Brien Band Description", "start": "2017-06-15 14:00", "end":"2017-06-15 15:30"},
     ]
-  }
-}}
+}
