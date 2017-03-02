@@ -1,0 +1,38 @@
+{
+    "events": [
+{"name":"Chris Thile", "description": "Chris Thile Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Freddy & Francine", "description": "Freddy & Francine Description", "start": "2017-06-15 12:30", "end": "2017-06-15 13:45"},
+{"name":"Tim O'Brien Band","description": "Tim O'Brien Band Description", "start": "2017-06-15 14:00", "end": "2017-06-15 15:30"},
+{"name":"Fruition","description": "Fruition Description", "start": "2017-06-15 15:45", "end": "2017-06-15 17:00"},
+{"name":"Dierks Bentley w/The Travelin' McCourys","description": "Dierks Bentley w/The Travelin' McCourys Description", "start": "2017-06-15 17:15", "end": "2017-06-15 18:30"},
+{"name":"Brandi Carlile","description": "Brandi Carlile Description", "start": "2017-06-15 18:45", "end": "2017-06-15 20:00"},
+{"name":"Telluride House Band","description": "Telluride House Band Description", "start": "2017-06-15 20:15", "end": "2017-06-15 21:30"},
+
+{"name":"Jeremy Kittel Band","description": "Jeremy Kittel Band Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"The Cleverlys","description": "The Cleverlys Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Lindsay Lou & The Flatbellys","description": "Lindsay Lou & The Flatbellys Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Peter Rowan Dharma Blues featuring Jack Casady","description": "Peter Rowan Dharma Blues featuring Jack Casady Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Jerry Douglas Band","description": "Jerry Douglas Band Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Punch Brothers","description": "Punch Brothers Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Norah Jones","description": "Norah Jones Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Greensky Bluegrass","description": "Greensky Bluegrass Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+
+{"name":"Band Contest Finals","description": "Band Contest Finals Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Fireball Mail","description": "Fireball Mail Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Rayland Baxter","description": "Rayland Baxter Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Sarah Jarosz","description": "Sarah Jarosz Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Yonder Mountain String Band","description": "Yonder Mountain String Band Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Telluride Troubador","description": "Telluride Troubador Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Margo Price","description": "Margo Price Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Sam Bush Band","description": "Sam Bush Band Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Dispatch","description": "Dispatch Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+
+{"name":"We The People featuring Abigail Washburn & Friends","description": "We The People featuring Abigail Washburn & Friends Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"The East Pointers","description": "The East Pointers Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Parker Milsap","description": "Parker Milsap Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Bela Fleck & Chris Thile","description": "Bela Fleck & Chris Thile Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Hot Rize","description": "Hot Rize Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Elephant Revival","description": "Elephant Revival Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15"},
+{"name":"Jason Mraz & His Superband","description":  "Jason Mraz & His Superband Description", "start": "2017-06-15 11:00", "end": "2017-06-15 12:15" }
+    ]
+}
