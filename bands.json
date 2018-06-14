@@ -1,0 +1,480 @@
+{
+  "bands":[
+    {
+      "id": 1,
+      "name": "Chris Thile",
+      "description": "  \"Merry Christmas, Festivarians!\" That's how Chris Thile greeted the crowd last year as he opened the Festival. It's long been claimed that Telluride Bluegrass is its own genre, but it took Chris to assign official holiday status to the Fest. Makes sense. TBF comes but once a year, brings tidings of wonder and joy, and is steeped in heartwarming festive traditions.\n\n  Chris is the jolly magical being who comes around each year, bearing musical gifts and surprises for Festivarians from ages one to 92. He has brought joy to the TBF world since he was 12 years old-in Nickel Creek and Punch Brothers, in duets with Bela Fleck and Edgar Meyer, and alone on stage in the prestigious Fest-opening slot, which he's occupied for four of the last five years.\n\n  Last year, Chris delivered his typical spellbinding virtuosity: a Bach partita, a Radiohead cover, an original song about his baby boy, a Paul Simon nugget, a bluegrass ripper, a mandolin ditty about playing the mandolin, and on. Throughout, he mad spirits bright, laughing all the way.\n\n  In October, Chris took over as the new host of 'A Prairie Home Companion,' lending his wondrous intelligence, humor, and musicality to that franchise. But Chris will be home in Telluride for what he calls Christmas. It's the most wonderful Thile of the year. Chris time's a-comin'. Be there with bells on.",
+      "band_site_url": "https://www.christhile.com/",
+      "graphic": "chris-thile"
+    },
+    {
+      "id": 2,
+      "name": "Freddy & Francine",
+      "description": "  Harmony. We could use a little more of it these days. And the box canyon is the ideal place for voices and hearts to come together. In fact, men and women braiding their voices in musical duets have long made for some of Telluride's most powerful aural sacraments, including recent TBF performances by Dave Rawlings and Gillian Welch, Emmylou Harris and Rodney Crowell, Robert Plant and Patty Griffin, and young songbirds in love like Johnnyswim and Mandolin Orange.\n\n  To that tender tradition, we add the soaring soul-roots duo of Lee Ferris and Bianca Caruso, who, in 2008, first collaborated under the moniker Freddy and Francine. By fusing their voices above Ferris's percussive guitar, the pair became sensations on the L.A. scene and released a pair of acclaimed albums before separating in 2010.\n\n  After several years apart-Ferris starred as Carl Perkins on stage in 'Million Dollar Quartet'; Caruso recorded a solo album-the pair have recently experienced a romantic and musical resumption. Our ears are rejoincing. Last year's 'Gung Ho' is the best showcase yet for the couple's mellifluously blended vocal lines, often sounding like a single resonant voice gliding over the group's pristine Americana folk-soul.\n\n  Two born-to-belt-it vocalists. A pile of gorgeous tunes. Opening day of the Festival. That's a recipe for harmony in the valley.",
+      "band_site_url": "https://www.freddyandfrancine.com/",
+      "graphic": "freddy-and-francine"
+    },
+    {
+      "id": 3,
+      "name": "Tim O'Brien Band",
+      "description": "  Born and raised in Wheeling, West Virginia, in the foothills of the Appalachian Mountains, Tim O'Brien soaked up the bluegrass, folk , and country music at the foundation of the American musical heritage. And for nearly 50 years, Tim has kept these art forms alive as our most distinguished steward of the music.\n\n  Tim has spelunked deep into American music's ancestral Celtic and folk traditions and has emerged a legend: from the seminal Hot Rize to his Grammy-winning solo and collaborative albums to his instrumental mastery of all things stringed to his oft-covered songwriting to his edifying, entertaining performances. In addition, Tim has traced the music's evolution forward through rustic reimaginings of everyone from Woody Guthrie to James Brown, including full-album tributes to Bob Dylan and Roger Miller, all with Tim's trademark authority and flair.\n\n  Throughout, Tim has embodied the spirit and musical integrity of Telluride Bluegrass as one of our most beloved figures, and 2017 marks Tim's 41st TBF appearance. And in the spirit of historical reflection, Tim has gone full-circle with the new 'Where the River Meets the Road' songs of his native West Virginia. From the Appalachians to the San Juans: Thursday will bring a special opening-day celebration with Tim O'Brien, an artist as timeless and authentic as the mountains themselves.",
+      "band_site_url": "http://www.timobrien.net/",
+      "graphic": "tim-obrien-band"
+    },
+    {
+      "id": 4,
+      "name": "Fruition",
+      "description": "  The US highway system spans over 200,000 miles, and Fruition, the magnetic quintet currently lighting up the jamgrass scene, have traveled nearly every one of them on the journey that has led them to their Telluride Bluegrass mainstage debut.\n\n  Fruition's trip started in Portland where the group first connected in 2008 over acoustic picking sessions. As the road took them coast to coast, the band absorbed the nation's bluegrass, soul, country, blues, and folks strains. Fruition fused it all into their own post-grass compositie, a dynamic, heart-baring roots arock that triangulates Jay Cobb Anderson's blazed-out guitar, Mimi Naja's speed-buggy mandolin, and Kellen Asebroek's swamp-fox keys.\n\n  Along with bassist Jeff Leonard and drummer Tyler Thompson, Fruition feature three lead singers whose voices meld beautifully together. And while the band can turn up the guitars with supercharged instrumental range and spark-a-fatty jambition, Fruition remain distinctly tune-driven: 2016's 'Labor of Love' is filled with sugar-shot melodies and mile-high multipart harmonies that suggest an even split between Red Rocks and Big Pink.\n\n  The long road to Telluride for artists and Festivarians alike can be years in the making, full of many twists and challenges along the way. On Thursday afternoon, all of those roads and dreams come to Fruition.",
+      "band_site_url": "http://www.fruitionband.com/",
+      "graphic": "fruition"
+    },
+    {
+      "id": 5,
+      "name": "Dierks Bentley\nWith The Travelin' McCourys",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "dierk-and-mccoury"
+    },
+    {
+      "id": 6,
+      "name": "Brandi Carlile",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "brandi-carlile"
+    },
+    {
+      "id": 7,
+      "name": "Telluride House Band\nFeaturing Sam, Bela, Jerry, Edgar, Bryan & Stuart",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "house-band"
+    },
+    {
+      "id": 8,
+      "name": "Jeremy Kittel Band",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "jeremy-kittel-band"
+    },
+    {
+      "id": 9,
+      "name": "The Cleverlys",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 10,
+      "name": "Lindsay Lou & The Flatbellys",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 11,
+      "name": "Peter Rowan Dharma Blues\nFeaturing Jack Casady",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 12,
+      "name": "The Jerry Douglas Band",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 13,
+      "name": "Punch Brothers",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 14,
+      "name": "Norah Jones",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 15,
+      "name": "Greensky Bluegrass",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 16,
+      "name": "Band Contest Finals",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 17,
+      "name": "Fireball Mail",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 18,
+      "name": "Rayland Baxter",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 19,
+      "name": "Sarah Jarosz",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 20,
+      "name": "Yonder Mountain String Band",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 21,
+      "name": "Telluride Troubadour",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 22,
+      "name": "Margo Price",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 23,
+      "name": "Sam Bush Band",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 24,
+      "name": "Dispatch",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 25,
+      "name": "We the People\nFeaturing Abigail Washburn & Friends",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 26,
+      "name": "The East Pointers",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 27,
+      "name": "Parker Milsap",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 28,
+      "name": "Bela Fleck & Chris Thile",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 29,
+      "name": "Hot Rize",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 30,
+      "name": "Elephant Revival",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 31,
+      "name": "Jason Mraz and his Superband",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 32,
+      "name": "Jeremy Kittel Band:\nBows, Picks & Hammers",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "jeremy-kittel-band"
+    },
+    {
+      "id": 33,
+      "name": "Troubadour Contest:\nPreliminary Round",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 34,
+      "name": "Peter Rowan, Michael Witcher\n& Tsuki Chan: My Aloha!",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 35,
+      "name": "Anna Tivel:\n2016 Troubadour Encore",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 36,
+      "name": "Punch Brothers:\nHappy Hour",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 42,
+      "name": "Band Contest: Preliminary Round",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 43,
+      "name": "Pete & Joan Wernick: Basic Bluegrass Jamming\nBring your Instrument",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 44,
+      "name": "Sam Bush, Pastor Mustard, Kooster McAllister:\nTBF's Neverland Beginnings",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 45,
+      "name": "Troubadour Contest: Final Round",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 46,
+      "name": "Yonder Mountain String Band: Love. Ain't Love",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 47,
+      "name": "Troubadour Contest: Winners Announced",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 48,
+      "name": "Fireball Mail: Bending the Rails",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 37,
+      "name": "Michael Hornick, Bobby Witringhamp & Friends:\nInstrument Building",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 38,
+      "name": "Troubadours: Clint Alphin, Heather Aubrey Lloyd,\nLauren Pratt, Shannon Wurst",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 39,
+      "name": "Fruition: Singers in the Round",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "fruition"
+    },
+    {
+      "id": 40,
+      "name": "Troubadours: Hasssan El-Tayyab, Cari Minor, Liz Ryder",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 41,
+      "name": "The East Pointers: PEI Kitchen Party",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 49,
+      "name": "Troubadours: Chase Gassaway, Leah Grams Johnson,\nHeather Mae",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 50,
+      "name": "Raghu Dixit, Abigail Washburn, Wu Fei & Iyeoka Okoawo:\nLet Your Soul Shine Through:\nMusic from India, Appalachia, China, & Nigeria",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 51,
+      "name": "Allie Kral, Lindsay Lou, Mimi Naja: Siren Songs",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 52,
+      "name": "Jugglers' Grove,\nArts & Crafts",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 53,
+      "name": "Jugglers' Grove, Hoop Making, Arts & Crafts",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 54,
+      "name": "Puppet Show with Dennis the Red",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 55,
+      "name": "Story & Play: The Elk in the Attic",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 55,
+      "name": "Story & Play: The Elk in the Attic",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 56,
+      "name": "Drama Class & Talent Show Sign-ups",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 57,
+      "name": "24st Annual Telluride Kids Talent Show",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 58,
+      "name": "Jugglers' Grove, Hoop Making, Arts & Crafts",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 59,
+      "name": "Funny Bone Logic & Clown Yoga",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 60,
+      "name": "Storytelling with Gala the Flower Faerie",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 61,
+      "name": "Kids Yoga with Patty Sunfield",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 62,
+      "name": "A Teddy Bear's Picnic: Songs for the Whole Family\nBring your teddy bear and cuddle-up for some great music!",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 63,
+      "name": "Jugglers' Grove, Arts & Crafts",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 64,
+      "name": "Clown Yoga with Gumbo Wobbly & Friends",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 65,
+      "name": "Puppets, Clowns & Music to Introduce 2017 Parade Theme",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 66,
+      "name": "Parade Preparations\nUntil Parade Begins",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    },
+    {
+      "id": 67,
+      "name": "21st Annual Kids Parade\nThrough festival grounds during set-break.",
+      "description": "Stub Description",
+      "band_site_url": "http://www.bluegrass.com",
+      "graphic": "default"
+    }
+  ]
+}
