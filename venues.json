@@ -1,0 +1,36 @@
+{
+  "venues":[
+    {
+      "id": 0,
+      "name": "My Shows",
+      "graphic": "stub",
+      "description": "stub",
+      "lat": 37.937492,
+      "long": -107.812286
+    },
+    {
+      "id": 1,
+      "name": "Town Park",
+      "graphic": "town-park",
+      "description": "Telluride Town Park is the center of many activities. In the summer, it is the venue for many music festivals and host to campgrounds, softball fields, a frisbee golf course, sand volleyball courts, a skate park, soccer fields, a public outdoor swimming pool, tennis courts, horseshoe pits, kid's fishing pond, Imagination Station playground, basketball courts and more. In the winter, the park has  two ice rinks and groomed trail for Nordic skiing. The Town of Telluride manages the use of Telluride Town Park. More information can be found online, and details of the summer youth programs offered by Telluride Park & Rec are in the attachment below. ",
+      "lat": 37.933260,
+      "long": -107.808171
+    },
+    {
+      "id": 2,
+      "name": "Elks Park",
+      "graphic": "elks-park",
+      "description": "A long-standing Telluride tradition, workshops are presented during the four days of the Festival. These intimate events bring together unique usical collaborations and more informal performances from festival artists as well as the preliminary rounds for both the Telluride Troubador and Band contests.\n\n  These events are presented free to all Festivarians at Elks Park. Telluride Elks Park is located across from the Courthouse. All summer long, find special events in Elks Park from slackline demonstrations to free film screenings and concerts. A variety of food cart vendors also call Elks Park home. The use of Telluride Elks Park is managed by the Town of Telluride.",
+      "lat": 37.937293,
+      "long": -107.812919
+    },
+    {
+      "id": 3,
+      "name": "Family Tent",
+      "graphic": "family-tent",
+      "description": "For the Younger Festivarians. The festivarian family that makes the trek to Telluride every year isn't just adults. Many families have been attending the festival for several generations, kids who grew up at Telluride Bluegrass are now bringing along their own kids to join the festivarian family for the first time.\n\n  Activities for kids include the family area inside the Festival grounds, hiking, horeback riding, and other activities in the town of Telluride and Mountain Village.\n\n  The Family Tent provides whimsical, musical and educational activitites for children and their parents. We are not a daycare facility, so we ask that parents sign in and accompany their kids while in this area at all times. The Family Tent is open from noon-5pm on Thursday and 10am to 5pm Friday thru Sunday, and most actiivies are free.",
+      "lat": 37.934787,
+      "long": -107.807693
+    }
+  ]
+}
