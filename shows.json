@@ -1,0 +1,548 @@
+{
+  "shows":[
+    {
+      "id": 1,
+      "name": "Chris Thile",
+      "band_id": 1,
+      "duration": 4,
+      "venue_id": 1,
+      "start_time": "2017-06-15 11:00:00"
+    },
+    {
+      "id": 2,
+      "name": "Freddy & Francine",
+      "band_id": 2,
+      "duration": 4,
+      "venue_id": 1,
+      "start_time": "2017-06-15 12:15:00"
+    },
+    {
+      "id": 3,
+      "name": "Tim O'Brien Band",
+      "band_id": 3,
+      "duration": 5,
+      "venue_id": 1,
+      "start_time": "2017-06-15 13:30:00"
+    },
+    {
+      "id": 4,
+      "name": "Fruition",
+      "band_id": 4,
+      "duration": 5,
+      "venue_id": 1,
+      "start_time": "2017-06-15 15:15:00"
+    },
+    {
+      "id": 5,
+      "name": "Dierks Bentley\nWith The Travelin' McCourys",
+      "band_id": 5,
+      "duration": 6,
+      "venue_id": 1,
+      "start_time": "2017-06-15 17:00:00"
+    },
+    {
+      "id": 6,
+      "name": "Brandi Carlile",
+      "band_id": 6,
+      "duration": 6,
+      "venue_id": 1,
+      "start_time": "2017-06-15 19:00:00"
+    },
+    {
+      "id": 7,
+      "name": "Telluride House Band\nFeaturing Sam, Bela, Jerry, Edgar, Bryan & Stuart",
+      "band_id": 7,
+      "duration": 8,
+      "venue_id": 1,
+      "start_time": "2017-06-15 21:00:00"
+    },
+    {
+      "id": 8,
+      "name": "Jeremy Kittel Band",
+      "band_id": 8,
+      "duration": 4,
+      "venue_id": 1,
+      "start_time": "2017-06-16 10:00:00"
+    },
+    {
+      "id": 9,
+      "name": "The Cleverlys",
+      "band_id": 9,
+      "duration": 5,
+      "venue_id": 1,
+      "start_time": "2017-06-16 11:15:00"
+    },
+    {
+      "id": 10,
+      "name": "Lindsay Lou & The Flatbellys",
+      "band_id": 10,
+      "duration": 5,
+      "venue_id": 1,
+      "start_time": "2017-06-16 13:00:00"
+    },
+    {
+      "id": 11,
+      "name": "Peter Rowan Dharma Blues\nFeaturing Jack Casady",
+      "band_id": 11,
+      "duration": 5,
+      "venue_id": 1,
+      "start_time": "2017-06-16 14:45:00"
+    },
+    {
+      "id": 12,
+      "name": "The Jerry Douglas Band",
+      "band_id": 12,
+      "duration": 6,
+      "venue_id": 1,
+      "start_time": "2017-06-16 16:30:00"
+    },
+    {
+      "id": 13,
+      "name": "Punch Brothers",
+      "band_id": 13,
+      "duration": 6,
+      "venue_id": 1,
+      "start_time": "2017-06-16 18:30:00"
+    },
+    {
+      "id": 14,
+      "name": "Norah Jones",
+      "band_id": 14,
+      "duration": 6,
+      "venue_id": 1,
+      "start_time": "2017-06-16 20:30:00"
+    },
+    {
+      "id": 15,
+      "name": "Greensky Bluegrass",
+      "band_id": 15,
+      "duration": 6,
+      "venue_id": 1,
+      "start_time": "2017-06-16 22:30:00"
+    },
+    {
+      "id": 16,
+      "name": "Band Contest Finals",
+      "band_id": 16,
+      "duration": 4,
+      "venue_id": 1,
+      "start_time": "2017-06-17 10:00:00"
+    },
+    {
+      "id": 17,
+      "name": "Fireball Mail",
+      "band_id": 17,
+      "duration": 4,
+      "venue_id": 1,
+      "start_time": "2017-06-17 11:15:00"
+    },
+    {
+      "id": 18,
+      "name": "Rayland Baxter",
+      "band_id": 18,
+      "duration": 5,
+      "venue_id": 1,
+      "start_time": "2017-06-17 12:30:00"
+    },
+    {
+      "id": 19,
+      "name": "Sarah Jarosz",
+      "band_id": 19,
+      "duration": 5,
+      "venue_id": 1,
+      "start_time": "2017-06-17 14:15:00"
+    },
+    {
+      "id": 20,
+      "name": "Yonder Mountain String Band",
+      "band_id": 20,
+      "duration": 6,
+      "venue_id": 1,
+      "start_time": "2017-06-17 16:00:00"
+    },
+    {
+      "id": 21,
+      "name": "Telluride Troubadour",
+      "band_id": 21,
+      "duration": 1,
+      "venue_id": 1,
+      "start_time": "2017-06-17 17:45:00"
+    },
+    {
+      "id": 22,
+      "name": "Margo Price",
+      "band_id": 22,
+      "duration": 5,
+      "venue_id": 1,
+      "start_time": "2017-06-17 18:15:00"
+    },
+    {
+      "id": 23,
+      "name": "Sam Bush Band",
+      "band_id": 23,
+      "duration": 8,
+      "venue_id": 1,
+      "start_time": "2017-06-17 20:00:00"
+    },
+    {
+      "id": 24,
+      "name": "Dispatch",
+      "band_id": 24,
+      "duration": 8,
+      "venue_id": 1,
+      "start_time": "2017-06-17 22:30:00"
+    },
+    {
+      "id": 25,
+      "name": "We the People\nFeaturing Abigail Washburn & Friends",
+      "band_id": 25,
+      "duration": 6,
+      "venue_id": 1,
+      "start_time": "2017-06-18 10:45:00"
+    },
+    {
+      "id": 26,
+      "name": "The East Pointers",
+      "band_id": 26,
+      "duration": 5,
+      "venue_id": 1,
+      "start_time": "2017-06-18 12:30:00"
+    },
+    {
+      "id": 27,
+      "name": "Parker Milsap",
+      "band_id": 27,
+      "duration": 5,
+      "venue_id": 1,
+      "start_time": "2017-06-18 14:00:00"
+    },
+    {
+      "id": 28,
+      "name": "Bela Fleck & Chris Thile",
+      "band_id": 28,
+      "duration": 5,
+      "venue_id": 1,
+      "start_time": "2017-06-18 15:45:00"
+    },
+    {
+      "id": 29,
+      "name": "Hot Rize",
+      "band_id": 29,
+      "duration": 5,
+      "venue_id": 1,
+      "start_time": "2017-06-18 17:30:00"
+    },
+    {
+      "id": 30,
+      "name": "Elephant Revival",
+      "band_id": 30,
+      "duration": 5,
+      "venue_id": 1,
+      "start_time": "2017-06-18 19:15:00"
+    },
+    {
+      "id": 31,
+      "name": "Jason Mraz and his Superband",
+      "band_id": 31,
+      "duration": 10,
+      "venue_id": 1,
+      "start_time": "2017-06-18 21:00:00"
+    },
+    {
+      "id": 32,
+      "name": "Jeremy Kittel Band:\nBows, Picks & Hammers",
+      "band_id": 32,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-15 11:00:00"
+    },
+    {
+      "id": 33,
+      "name": "Troubadour Contest:\nPreliminary Round",
+      "band_id": 33,
+      "duration": 6,
+      "venue_id": 2,
+      "start_time": "2017-06-15 12:15:00"
+    },
+    {
+      "id": 34,
+      "name": "Peter Rowan, Michael Witcher\n& Tsuki Chan: My Aloha!",
+      "band_id": 34,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-15 14:00:00"
+    },
+    {
+      "id": 35,
+      "name": "Anna Tivel:\n2016 Troubadour Encore",
+      "band_id": 35,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-15 15:15:00"
+    },
+    {
+      "id": 36,
+      "name": "Punch Brothers:\nHappy Hour",
+      "band_id": 36,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-15 16:30:00"
+    },
+    {
+      "id": 42,
+      "name": "Band Contest: Preliminary Round",
+      "band_id": 42,
+      "duration": 6,
+      "venue_id": 2,
+      "start_time": "2017-06-16 10:00:00"
+    },
+    {
+      "id": 43,
+      "name": "Pete & Joan Wernick: Basic Bluegrass Jamming\nBring your Instrument",
+      "band_id": 43,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-16 12:00:00"
+    },
+    {
+      "id": 44,
+      "name": "Sam Bush, Pastor Mustard, Kooster McAllister:\nTBF's Neverland Beginnings",
+      "band_id": 44,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-16 13:30:00"
+    },
+    {
+      "id": 45,
+      "name": "Troubadour Contest: Final Round",
+      "band_id": 45,
+      "duration": 3,
+      "venue_id": 2,
+      "start_time": "2017-06-16 14:45:00"
+    },
+    {
+      "id": 46,
+      "name": "Yonder Mountain String Band: Love. Ain't Love",
+      "band_id": 46,
+      "duration": 3,
+      "venue_id": 2,
+      "start_time": "2017-06-16 15:45:00"
+    },
+    {
+      "id": 47,
+      "name": "Troubadour Contest: Winners Announced",
+      "band_id": 47,
+      "duration": 1,
+      "venue_id": 2,
+      "start_time": "2017-06-16 16:45:00"
+    },
+    {
+      "id": 48,
+      "name": "Fireball Mail: Bending the Rails",
+      "band_id": 48,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-16 17:00:00"
+    },
+    {
+      "id": 37,
+      "name": "Michael Hornick, Bobby Witringhamp & Friends:\nInstrument Building",
+      "band_id": 37,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-17 10:30:00"
+    },
+    {
+      "id": 38,
+      "name": "Troubadours: Clint Alphin, Heather Aubrey Lloyd,\nLauren Pratt, Shannon Wurst",
+      "band_id": 38,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-17 12:00:00"
+    },
+    {
+      "id": 39,
+      "name": "Fruition: Singers in the Round",
+      "band_id": 4,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-17 13:30:00"
+    },
+    {
+      "id": 40,
+      "name": "Troubadours: Hasssan El-Tayyab, Cari Minor, Liz Ryder",
+      "band_id": 40,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-17 15:00:00"
+    },
+    {
+      "id": 41,
+      "name": "The East Pointers: PEI Kitchen Party",
+      "band_id": 41,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-17 16:30:00"
+    },
+    {
+      "id": 49,
+      "name": "Troubadours: Chase Gassaway, Leah Grams Johnson,\nHeather Mae",
+      "band_id": 49,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-18 11:30:00"
+    },
+    {
+      "id": 50,
+      "name": "Raghu Dixit, Abigail Washburn, Wu Fei & Iyeoka Okoawo:\nLet Your Soul Shine Through:\nMusic from India, Appalachia, China, & Nigeria",
+      "band_id": 50,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-18 13:00:00"
+    },
+    {
+      "id": 51,
+      "name": "Allie Kral, Lindsay Lou, Mimi Naja: Siren Songs",
+      "band_id": 51,
+      "duration": 4,
+      "venue_id": 2,
+      "start_time": "2017-06-18 15:30:00"
+    },
+    {
+      "id": 52,
+      "name": "Jugglers' Grove,\nArts & Crafts",
+      "band_id": 52,
+      "duration": 20,
+      "venue_id": 3,
+      "start_time": "2017-06-15 12:00:00"
+    },
+    {
+      "id": 53,
+      "name": "Jugglers' Grove, Hoop Making, Arts & Crafts",
+      "band_id": 53,
+      "duration": 6,
+      "venue_id": 3,
+      "start_time": "2017-06-17 10:00:00"
+    },
+    {
+      "id": 54,
+      "name": "Puppet Show with Dennis the Red",
+      "band_id": 54,
+      "duration": 3,
+      "venue_id": 3,
+      "start_time": "2017-06-17 12:00:00"
+    },
+    {
+      "id": 55,
+      "name": "Story & Play: The Elk in the Attic",
+      "band_id": 55,
+      "duration": 3,
+      "venue_id": 3,
+      "start_time": "2017-06-17 13:00:00"
+    },
+    {
+      "id": 55,
+      "name": "Story & Play: The Elk in the Attic",
+      "band_id": 55,
+      "duration": 3,
+      "venue_id": 3,
+      "start_time": "2017-06-17 13:00:00"
+    },
+    {
+      "id": 56,
+      "name": "Drama Class & Talent Show Sign-ups",
+      "band_id": 56,
+      "duration": 1,
+      "venue_id": 3,
+      "start_time": "2017-06-17 14:00:00"
+    },
+    {
+      "id": 57,
+      "name": "24st Annual Telluride Kids Talent Show",
+      "band_id": 57,
+      "duration": 2,
+      "venue_id": 3,
+      "start_time": "2017-06-17 14:30:00"
+    },
+    {
+      "id": 58,
+      "name": "Jugglers' Grove, Hoop Making, Arts & Crafts",
+      "band_id": 58,
+      "duration": 6,
+      "venue_id": 3,
+      "start_time": "2017-06-16 10:00:00"
+    },
+    {
+      "id": 59,
+      "name": "Funny Bone Logic & Clown Yoga",
+      "band_id": 59,
+      "duration": 3,
+      "venue_id": 3,
+      "start_time": "2017-06-16 12:00:00"
+    },
+    {
+      "id": 60,
+      "name": "Storytelling with Gala the Flower Faerie",
+      "band_id": 60,
+      "duration": 3,
+      "venue_id": 3,
+      "start_time": "2017-06-16 13:00:00"
+    },
+    {
+      "id": 61,
+      "name": "Kids Yoga with Patty Sunfield",
+      "band_id": 61,
+      "duration": 3,
+      "venue_id": 3,
+      "start_time": "2017-06-16 14:00:00"
+    },
+    {
+      "id": 62,
+      "name": "A Teddy Bear's Picnic: Songs for the Whole Family\nBring your teddy bear and cuddle-up for some great music!",
+      "band_id": 62,
+      "duration": 4,
+      "venue_id": 3,
+      "start_time": "2017-06-16 14:00:00"
+    },
+    {
+      "id": 63,
+      "name": "Jugglers' Grove, Arts & Crafts",
+      "band_id": 63,
+      "duration": 6,
+      "venue_id": 3,
+      "start_time": "2017-06-18 10:00:00"
+    },
+    {
+      "id": 64,
+      "name": "Clown Yoga with Gumbo Wobbly & Friends",
+      "band_id": 64,
+      "duration": 3,
+      "venue_id": 3,
+      "start_time": "2017-06-18 12:00:00"
+    },
+    {
+      "id": 65,
+      "name": "Puppets, Clowns & Music to Introduce 2017 Parade Theme",
+      "band_id": 65,
+      "duration": 4,
+      "venue_id": 3,
+      "start_time": "2017-06-18 13:00:00"
+    },
+    {
+      "id": 66,
+      "name": "Parade Preparations\nUntil Parade Begins",
+      "band_id": 66,
+      "duration": 2,
+      "venue_id": 3,
+      "start_time": "2017-06-18 14:30:00"
+    },
+    {
+      "id": 67,
+      "name": "21st Annual Kids Parade\nThrough festival grounds during set-break.",
+      "band_id": 67,
+      "duration": 4,
+      "venue_id": 3,
+      "start_time": "2017-06-18 15:15:00"
+    }
+  ]
+}
