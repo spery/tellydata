@@ -35,6 +35,27 @@
       "story": "Jeremy Witt wins the Telluride Troubadour contest. He will play a tweener set on Saturday afternoon at 3pm.",
       "utc_post_date": "2018-06-16-02-32",
       "icon": "star"
+    },
+    {
+      "id": 3,
+      "title": "Thursday Weather Forecast",
+      "story": "Sunshine and clouds mixed. A stray shower or thunderstorm is possible. High 88F. Winds N at 10 to 15 mph.",
+      "utc_post_date": "2018-06-15-11-47",
+      "icon": "umbrella"
+    },
+    {
+      "id": 2,
+      "title": "Festival Grounds Open Thursday @ 9am",
+      "story": "The first day of the festival opens at 9am this morning. Don't miss the 45th Annual Opening Day Running of the Tarps.",
+      "utc_post_date": "2018-06-15-11-23",
+      "icon": "unlock"
+    },
+    {
+      "id": 1,
+      "title": "Yonder Mountain TCC Show Adds Guest",
+      "story": "The Travelling McCourys will sit in with Yonder Mountain at their Telluride Conference Center Show Thursday night after the First Grass show.",
+      "utc_post_date": "2018-06-14-17-31",
+      "icon": "unlock"
     }
   ]
 }
