@@ -2,16 +2,39 @@
 {
   "news":[
     {
-      "id": 1,
-      "title": "Chris Thile",
-      "story": "  \"Merry Christmas, Festivarians!\" That's how Chris Thile greeted the crowd last year as he opened the Festival. It's long been claimed that Telluride Bluegrass is its own genre, but it took Chris to assign official holiday status to the Fest. Makes sense. TBF comes but once a year, brings tidings of wonder and joy, and is steeped in heartwarming festive traditions.\n\n  Chris is the jolly magical being who comes around each year, bearing musical gifts and surprises for Festivarians from ages one to 92. He has brought joy to the TBF world since he was 12 years old-in Nickel Creek and Punch Brothers, in duets with Bela Fleck and Edgar Meyer, and alone on stage in the prestigious Fest-opening slot, which he's occupied for four of the last five years.\n\n  Last year, Chris delivered his typical spellbinding virtuosity: a Bach partita, a Radiohead cover, an original song about his baby boy, a Paul Simon nugget, a bluegrass ripper, a mandolin ditty about playing the mandolin, and on. Throughout, he mad spirits bright, laughing all the way.\n\n  In October, Chris took over as the new host of 'A Prairie Home Companion,' lending his wondrous intelligence, humor, and musicality to that franchise. But Chris will be home in Telluride for what he calls Christmas. It's the most wonderful Thile of the year. Chris time's a-comin'. Be there with bells on.",
-      "post_date": "https://www.christhile.com/"
+      "id": 8,
+      "title": "The Cleverlys Delay Signing",
+      "story": "The Cleverlys signing will be delayed at the signing tent until 1 pm to allow for an extended Greensky Bluegrass signing. We apologize for the inconvenience.",
+      "utc_post_date": "2018-06-16-15-21",
+      "icon": "clock"
     },
     {
-      "id": 2,
-      "title": "Chris Thile",
-      "story": "  \"Merry Christmas, Festivarians!\" That's how Chris Thile greeted the crowd last year as he opened the Festival. It's long been claimed that Telluride Bluegrass is its own genre, but it took Chris to assign official holiday status to the Fest. Makes sense. TBF comes but once a year, brings tidings of wonder and joy, and is steeped in heartwarming festive traditions.\n\n  Chris is the jolly magical being who comes around each year, bearing musical gifts and surprises for Festivarians from ages one to 92. He has brought joy to the TBF world since he was 12 years old-in Nickel Creek and Punch Brothers, in duets with Bela Fleck and Edgar Meyer, and alone on stage in the prestigious Fest-opening slot, which he's occupied for four of the last five years.\n\n  Last year, Chris delivered his typical spellbinding virtuosity: a Bach partita, a Radiohead cover, an original song about his baby boy, a Paul Simon nugget, a bluegrass ripper, a mandolin ditty about playing the mandolin, and on. Throughout, he mad spirits bright, laughing all the way.\n\n  In October, Chris took over as the new host of 'A Prairie Home Companion,' lending his wondrous intelligence, humor, and musicality to that franchise. But Chris will be home in Telluride for what he calls Christmas. It's the most wonderful Thile of the year. Chris time's a-comin'. Be there with bells on.",
-      "post_date": "https://www.christhile.com/"
+      "id": 7,
+      "title": "Friday Weather Forecast",
+      "story": "Sunny, along with a few afternoon clouds. High around 95F on the festival grounds. Winds N at 10 to 15 mph.",
+      "utc_post_date": "2018-06-16-11-43",
+      "icon": "sun"
+    },
+    {
+      "id": 6,
+      "title": "Festival Grounds Open Friday @ 10am",
+      "story": "The second day of the festival commences an hour later with gates opening @ 10am. Barely enough time to get your tarp set up before the first flank steaks are ready to eat.",
+      "utc_post_date": "2018-06-16-11-27",
+      "icon": "unlock"
+    },
+    {
+      "id": 5,
+      "title": "Punch Brothers Schedule Change",
+      "story": "The Punch Brothers nightgrass set at the Sheridan Opera House on Sunday will be delayed 30 minutes until 11pm.",
+      "utc_post_date": "2018-06-16-05-47",
+      "icon": "calendar"
+    },
+    {
+      "id": 4,
+      "title": "Telluride Troubadour Winner Announcement",
+      "story": "Jeremy Witt wins the Telluride Troubadour contest. He will play a tweener set on Saturday afternoon at 3pm.",
+      "utc_post_date": "2018-06-16-02-32",
+      "icon": "star"
     }
   ]
 }
