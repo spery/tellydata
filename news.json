@@ -5,56 +5,56 @@
       "id": 8,
       "title": "The Cleverlys Delay Signing",
       "story": "The Cleverlys signing will be delayed at the signing tent until 1 pm to allow for an extended Greensky Bluegrass signing. We apologize for the inconvenience.",
-      "utc_post_date": "2018-06-16-15-21",
+      "post_date": "2018-06-16 15:21:00",
       "icon": "clock"
     },
     {
       "id": 7,
       "title": "Friday Weather Forecast",
       "story": "Sunny, along with a few afternoon clouds. High around 95F on the festival grounds. Winds N at 10 to 15 mph.",
-      "utc_post_date": "2018-06-16-11-43",
+      "post_date": "2018-06-16 11:43:00",
       "icon": "sun"
     },
     {
       "id": 6,
       "title": "Festival Grounds Open Friday @ 10am",
       "story": "The second day of the festival commences an hour later with gates opening @ 10am. Barely enough time to get your tarp set up before the first flank steaks are ready to eat.",
-      "utc_post_date": "2018-06-16-11-27",
+      "post_date": "2018-06-16 11:27:00",
       "icon": "unlock"
     },
     {
       "id": 5,
       "title": "Punch Brothers Schedule Change",
       "story": "The Punch Brothers nightgrass set at the Sheridan Opera House on Sunday will be delayed 30 minutes until 11pm.",
-      "utc_post_date": "2018-06-16-05-47",
+      "post_date": "2018-06-16 05:47:00",
       "icon": "calendar"
     },
     {
       "id": 4,
       "title": "Telluride Troubadour Winner Announcement",
       "story": "Jeremy Witt wins the Telluride Troubadour contest. He will play a tweener set on Saturday afternoon at 3pm.",
-      "utc_post_date": "2018-06-16-02-32",
+      "post_date": "2018-06-16 02:32:00",
       "icon": "star"
     },
     {
       "id": 3,
       "title": "Thursday Weather Forecast",
       "story": "Sunshine and clouds mixed. A stray shower or thunderstorm is possible. High 88F. Winds N at 10 to 15 mph.",
-      "utc_post_date": "2018-06-15-11-47",
+      "post_date": "2018-06-15 11:47:00",
       "icon": "umbrella"
     },
     {
       "id": 2,
       "title": "Festival Grounds Open Thursday @ 9am",
       "story": "The first day of the festival opens at 9am this morning. Don't miss the 45th Annual Opening Day Running of the Tarps.",
-      "utc_post_date": "2018-06-15-11-23",
+      "post_date": "2018-06-15 11:23:00",
       "icon": "unlock"
     },
     {
       "id": 1,
       "title": "Yonder Mountain TCC Show Adds Guest",
       "story": "The Travelling McCourys will sit in with Yonder Mountain at their Telluride Conference Center Show Thursday night after the First Grass show.",
-      "utc_post_date": "2018-06-14-17-31",
+      "post_date": "2018-06-14 17:31:00",
       "icon": "music_note"
     }
   ]
