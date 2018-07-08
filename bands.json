@@ -30,7 +30,7 @@
       "description": "  The US highway system spans over 200,000 miles, and Fruition, the magnetic quintet currently lighting up the jamgrass scene, have traveled nearly every one of them on the journey that has led them to their Telluride Bluegrass mainstage debut.\n\n  Fruition's trip started in Portland where the group first connected in 2008 over acoustic picking sessions. As the road took them coast to coast, the band absorbed the nation's bluegrass, soul, country, blues, and folks strains. Fruition fused it all into their own post-grass compositie, a dynamic, heart-baring roots arock that triangulates Jay Cobb Anderson's blazed-out guitar, Mimi Naja's speed-buggy mandolin, and Kellen Asebroek's swamp-fox keys.\n\n  Along with bassist Jeff Leonard and drummer Tyler Thompson, Fruition feature three lead singers whose voices meld beautifully together. And while the band can turn up the guitars with supercharged instrumental range and spark-a-fatty jambition, Fruition remain distinctly tune-driven: 2016's 'Labor of Love' is filled with sugar-shot melodies and mile-high multipart harmonies that suggest an even split between Red Rocks and Big Pink.\n\n  The long road to Telluride for artists and Festivarians alike can be years in the making, full of many twists and challenges along the way. On Thursday afternoon, all of those roads and dreams come to Fruition.",
       "band_site_url": "http://www.fruitionband.com/",
       "graphic": "fruition",
-      "promotion_level": "10"
+      "promotion_level": "4"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "description": "  Come a little closer, Festivarians, as TBF '17 makes way for one of music's biggest names: platinum-selling, arena-filling country superstar Dierks Benley. How big? Since his 2001 debut, Beltey has landed 15 #1 singles, 13 Grammy nominations, and last year's ACM award for Vocal Event of the Year. Dierk's last seven studio albums (including last year's Black, his highest-charting album to date) have all reached Billboard's Top Ten across all genres. \n\n  However, while Dierks is the smash-hit country soundtrack of choice for today's tailgates, bonfires, and pontoon boats, Bentley's original passion was the sound of mandolins, banjos, and fiddles. Less bro, more dobro. Indeed, Dierks is the rare contemporary Nashville megastar to cut a full bluegrass record, 2010's Up on the Ridge, backed by all-stars like Punch Brothers and the Travelin' McCourys.\n\n  Ronnie McCoury (mandolin), Rob McCoury (banjo), Jason Carter (fiddle), Alan Bartram (bass), and Cody Kilby (guitar) are the Travelin' McCourys, a band that combines traditional and progressive mastery like none other. This is Del's band in relaxed-fit mode, untucked and untamed, supplying peerless trad-style fleet precision but with the jam-ready chops to unleash wild textural electricity, whether they're playing with Keller Williams, the Allman Brothers, or Phish.\n\n  On Thursday, Bentley takes a break from his current headlining world tour to get back to bluegrass with the McCourys. It's a bucket-list gig for Dierks and an exclusive picking party for the rest of us, a one-time-only meeting in the moutains.",
       "band_site_url": "https://www.dierks.com/",
       "graphic": "dierk-and-mccoury",
-      "promotion_level": "10"
+      "promotion_level": "2"
     },
     {
       "id": 6,
@@ -54,7 +54,7 @@
       "description": "The earth formed 4.6 billion years ago. The geologic core of what would become North America developed 1.5 billion years ago. The Pangea supercontinent broke apart 200 million years ago, isolating our continent. Massive tectonic plates shifted 80 million years ago, creating the San Juan Mountains. The village of Telluride was founded 140 years ago after a gold mining camp was set up in the mountains above the town.\n\n  Around 250 years ago, British and Irish setllers arrived in Appalachia, bringing their musical traditions with them. By the 1930s, the music had spread, led by Bill Monroe and the Blue Grass Boys, which gave the genre its name. The core bluegrass instruments became the mandolin, banjo, dobro, upright bass, guitar and fiddle.\n\n  Then, in the mid-20t century, six geniuses were born: Sam Bush in Kentucky, Bela Fleck in New York, Jerry Douglas in Ohio, Edgar Meyer in Tennessee, Bryan Sutton in North Carolina, Stuart Duncan in Virginia. Each would become the greatest bluegrass virtuoso in the history of his instrument. Incredibly, they would all eventually play toether on the same stage.\n\n  43 years ago, the Telluride Bluegrass Festival was born. And sometime over the last few decades, Festivarian, you were born. In 2017, you made your way to Telluride. And on Thursday night of the Festival, the Tellurdie House Band will hit the stage, an event that takes place only one time a year in only one place.\n\n  It's opening night in Telluride. The House Band is ready. You are here. History is about to be made.",
       "band_site_url": "http://www.bluegrass.com/telluride/artists/HouseBand.html",
       "graphic": "house-band",
-      "promotion_level": "10"
+      "promotion_level": "3"
     },
     {
       "id": 8,
@@ -94,7 +94,7 @@
       "description": "Stub Description",
       "band_site_url": "http://www.bluegrass.com",
       "graphic": "default",
-      "promotion_level": "10"
+      "promotion_level": "4"
     },
     {
       "id": 13,
@@ -102,7 +102,7 @@
       "description": "Stub Description",
       "band_site_url": "http://www.bluegrass.com",
       "graphic": "default",
-      "promotion_level": "10"
+      "promotion_level": "3"
     },
     {
       "id": 14,
@@ -110,7 +110,7 @@
       "description": "Stub Description",
       "band_site_url": "http://www.bluegrass.com",
       "graphic": "default",
-      "promotion_level": "10"
+      "promotion_level": "2"
     },
     {
       "id": 15,
@@ -158,7 +158,7 @@
       "description": "Stub Description",
       "band_site_url": "http://www.bluegrass.com",
       "graphic": "default",
-      "promotion_level": "10"
+      "promotion_level": "4"
     },
     {
       "id": 21,
@@ -174,7 +174,7 @@
       "description": "Stub Description",
       "band_site_url": "http://www.bluegrass.com",
       "graphic": "default",
-      "promotion_level": "10"
+      "promotion_level": "3"
     },
     {
       "id": 23,
@@ -182,7 +182,7 @@
       "description": "Stub Description",
       "band_site_url": "http://www.bluegrass.com",
       "graphic": "default",
-      "promotion_level": "10"
+      "promotion_level": "2"
     },
     {
       "id": 24,
@@ -222,7 +222,7 @@
       "description": "Stub Description",
       "band_site_url": "http://www.bluegrass.com",
       "graphic": "default",
-      "promotion_level": "10"
+      "promotion_level": "4"
     },
     {
       "id": 29,
@@ -230,7 +230,7 @@
       "description": "Stub Description",
       "band_site_url": "http://www.bluegrass.com",
       "graphic": "default",
-      "promotion_level": "10"
+      "promotion_level": "3"
     },
     {
       "id": 30,
@@ -238,7 +238,7 @@
       "description": "Stub Description",
       "band_site_url": "http://www.bluegrass.com",
       "graphic": "default",
-      "promotion_level": "10"
+      "promotion_level": "2"
     },
     {
       "id": 31,
